@@ -1,0 +1,19 @@
+{
+  "name": "qrcodeautojs",
+  "version": "1.0.0",
+  "description": "100%width",
+  "main": "qrcode.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MaxYYYYY/qrcodejs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MaxYYYYY/qrcodejs/issues"
+  },
+  "homepage": "https://github.com/MaxYYYYY/qrcodejs#readme"
+}
